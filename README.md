@@ -14,11 +14,9 @@ Run `npm config set legacy-peer-deps true` to allow npm to install the dependenc
 
 Start the development backend from the `frontend` directory, using `yarn dev`.
 
-To run in live Wails development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`
-directory and run `npm run dev`. The frontend dev server will run on http://localhost:34115. Connect to this in your
-browser and connect to your application.
+To run in live Wails development mode, run `wails dev` in the project directory.
 
-> Note: The quasar dev server is manually configured to run on port :5173
+> Note: The dev server is manually configured to run on port :5173
 > in order to properly work with wails.
 > If this needs to be changed, please adjust the quasar.conf.js and wails.json with the new port
 
