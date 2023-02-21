@@ -1,5 +1,7 @@
 # Wails balenaDevelop integration
 
+<img width="1081" alt="wails-app" src="https://user-images.githubusercontent.com/64841595/220350794-9769de66-06e4-430d-9ab3-0cdb1a2412af.png">
+
 ## About
 
 This project uses Wails to bring together [go-cli components](https://github.com/balena-labs-research/go-cli) and the [device-uis](https://github.com/balena-labs-research/starter-interface) framework to create a desktop application for development on balena devices.
